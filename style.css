@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+}
+  
+input {
+    margin: 5px;
+}
+
+fieldset div {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+}
+
+textarea {
+    min-height: 100px;
+}
